@@ -1,0 +1,9 @@
+{
+    "apps": [{
+      "name": "frontend-local",
+      "script": "./build/server/server.js",
+      "watch": "./build/server",
+      "instances": 1,
+    }]
+  }
+  
